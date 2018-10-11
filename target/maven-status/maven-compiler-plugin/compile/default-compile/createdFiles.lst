@@ -1,0 +1,7 @@
+com\mindtree\RegistrationForm\dto\FormDto.class
+com\mindtree\RegistrationForm\ServletInitializer.class
+com\mindtree\RegistrationForm\RegistrationFormApplication.class
+com\mindtree\RegistrationForm\controller\FormController.class
+com\mindtree\RegistrationForm\service\FormService.class
+com\mindtree\RegistrationForm\repository\FormRepository.class
+com\mindtree\RegistrationForm\entity\Form.class
